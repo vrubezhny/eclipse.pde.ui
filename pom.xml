@@ -78,6 +78,7 @@
     <module>ui/org.eclipse.ui.trace</module>
     <module>ui/org.eclipse.pde.genericeditor.extension</module>
     <module>ui/org.eclipse.pde.genericeditor.extension.tests</module>
+    <module>ui/org.eclipse.pde.unittest.junit</module>
     <module>features/org.eclipse.pde-feature</module>
   </modules>
 </project>
